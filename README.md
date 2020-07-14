@@ -1,4 +1,4 @@
-# leaf-deficiency
+# Leaf-Deficiency
 
 ### Mobile App for detecting nutrients deificiency in Leaf in Realtime.
 ****
