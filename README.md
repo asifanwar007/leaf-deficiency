@@ -10,6 +10,8 @@
 3. Always create pull request to merge in master branch
 4. All code file should be in [src](https://github.com/asifanwar007/leaf-deficiency/tree/master/src) folder
 5. All datasets should be in [data](https://github.com/asifanwar007/leaf-deficiency/tree/master/data) folder
+
+**Warning**: *Do not upload larger datasets rather share link* 
 ****
 
 
