@@ -1,3 +1,6 @@
+*.zip
+pdf/
+Plant_leave_diseases_dataset_with_augmentation/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
